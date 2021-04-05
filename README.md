@@ -1,3 +1,8 @@
+# Acámica - Rewards Store
+
+Último proyecto de Acámica DWFE.
+Vista de catálogo para una aplicación de un e-commerce que le permite a usuarios/as canjear puntos por productos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
