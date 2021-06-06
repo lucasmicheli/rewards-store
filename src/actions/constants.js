@@ -1,6 +1,6 @@
 export const headers = {
     "Content-Type": "application/json",
-    "Authorization": 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZmFjMjQ0OWI5NTIzZTAwMjA3ZTFmYzMiLCJpYXQiOjE2MDUxMTcwMDF9.vHMYlEKnpSVDSejVVyittmqUhIQ9pbD2U5CvqwQYJ4I'
+    "Authorization": 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MGI2YWY1YjliNzc4MTAwMjA5YzVhYjEiLCJpYXQiOjE2MjI1ODUxNzl9.BPrJi9VtcXmjz3DaeiW7IKcX6EawZHZpnVaNbwnxMn0'
 };
 
 export const THOUSAND = 1000;
