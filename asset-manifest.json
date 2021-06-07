@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rewards-store/static/css/main.989f4363.chunk.css",
+    "main.js": "/rewards-store/static/js/main.e384d67f.chunk.js",
+    "main.js.map": "/rewards-store/static/js/main.e384d67f.chunk.js.map",
+    "runtime-main.js": "/rewards-store/static/js/runtime-main.b67d5400.js",
+    "runtime-main.js.map": "/rewards-store/static/js/runtime-main.b67d5400.js.map",
+    "static/css/2.62cbf21c.chunk.css": "/rewards-store/static/css/2.62cbf21c.chunk.css",
+    "static/js/2.3de01368.chunk.js": "/rewards-store/static/js/2.3de01368.chunk.js",
+    "static/js/2.3de01368.chunk.js.map": "/rewards-store/static/js/2.3de01368.chunk.js.map",
+    "index.html": "/rewards-store/index.html",
+    "static/css/2.62cbf21c.chunk.css.map": "/rewards-store/static/css/2.62cbf21c.chunk.css.map",
+    "static/css/main.989f4363.chunk.css.map": "/rewards-store/static/css/main.989f4363.chunk.css.map",
+    "static/js/2.3de01368.chunk.js.LICENSE.txt": "/rewards-store/static/js/2.3de01368.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9ecb2d3.svg": "/rewards-store/static/media/arrow-left.f9ecb2d3.svg",
+    "static/media/arrow-right.65a3e00f.svg": "/rewards-store/static/media/arrow-right.65a3e00f.svg",
+    "static/media/buy-blue.ebf91373.svg": "/rewards-store/static/media/buy-blue.ebf91373.svg",
+    "static/media/coin.545a8a71.svg": "/rewards-store/static/media/coin.545a8a71.svg",
+    "static/media/emoji-frown.967e5762.svg": "/rewards-store/static/media/emoji-frown.967e5762.svg",
+    "static/media/emoji-smile.112173de.svg": "/rewards-store/static/media/emoji-smile.112173de.svg",
+    "static/media/styles.css": "/rewards-store/static/media/header.b6f067c6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b67d5400.js",
+    "static/css/2.62cbf21c.chunk.css",
+    "static/js/2.3de01368.chunk.js",
+    "static/css/main.989f4363.chunk.css",
+    "static/js/main.e384d67f.chunk.js"
+  ]
+}
